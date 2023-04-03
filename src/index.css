@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.video-circle::after {
+  @apply absolute left-1 flex h-12 w-12 items-center justify-center rounded-full bg-[#43B671] content-videoIcon;
+}
