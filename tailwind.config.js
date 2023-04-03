@@ -12,8 +12,8 @@ export default {
       },
 
       content: {
-        videoIcon: 'url("./public/svg/video-icon.svg")',
-        img7: 'url("./public/img/image-7.jpg")',
+        videoIcon: 'url("/public/svg/video-icon.svg")',
+        img7: 'url("/public/img/image-7.jpg")',
       },
     },
   },
