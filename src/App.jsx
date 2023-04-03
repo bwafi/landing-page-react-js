@@ -74,7 +74,7 @@ function App() {
       <section
         className=" relative my-3 mt-14
        flex flex-row justify-around">
-        <div className=" flex w-1/2 flex-col items-center bg-red-200 p-5">
+        <div className=" flex w-1/2 flex-col items-center p-5">
           <div className="mt-52 w-[440px]">
             <h3 className="text-5xl font-normal">Chat with visitors while they browse your site</h3>
           </div>
@@ -94,7 +94,7 @@ function App() {
           </div>
         </div>
 
-        <div className="relative flex w-1/2 flex-col items-center justify-end bg-slate-300 py-7">
+        <div className="relative flex w-1/2 flex-col items-center justify-end py-7">
           <div className="mr-12 flex w-full justify-end">
             <img src="/public/img/image-4.jpg" alt="" className="h-[400px] w-80 rounded-t-full" />
             <p className=" absolute right-1/2 top-48 w-52 rounded-t-2xl rounded-bl-2xl bg-[#7D6353] px-5 py-3 text-sm font-medium text-white">
@@ -102,7 +102,7 @@ function App() {
             </p>
           </div>
 
-          <div className="relative ml-5 flex w-full items-center">
+          <div className="relative flex w-full items-center">
             <img src="/public/img/image-5.jpg" alt="" className="h-[400px] w-80 rounded-b-full" />
             <div className="absolute right-24 top-16 flex flex-col">
               <p className="mb-3 w-36 rounded-full bg-[#726985] px-5 py-3 text-sm font-medium text-white">
@@ -117,7 +117,7 @@ function App() {
       </section>
 
       <section className="my-10 flex w-full justify-around">
-        <div className="relative flex w-1/2 flex-col items-center bg-slate-300 ">
+        <div className="relative flex w-1/2 flex-col items-center ">
           <div className="absolute left-2/3 top-16 flex h-44 w-44 items-center justify-center rounded-full border border-[#3C636A] ">
             <img src="/public/img/image-7.jpg" alt="" className=" h-28 w-28 rounded-full" />
           </div>
@@ -132,7 +132,7 @@ function App() {
           </div>
         </div>
 
-        <div className="flex w-1/2 items-center justify-around bg-red-300">
+        <div className="flex w-1/2 items-center justify-around">
           <div className="w-4/6">
             <div className="mb-12 w-full">
               <h3 className="w-[420px] text-5xl ">It’s possible to do video call with your customers</h3>
